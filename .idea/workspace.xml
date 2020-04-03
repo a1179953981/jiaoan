@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gzbos:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="282faf61-695d-4488-bbcb-5db7179ecf81" name="Default" comment="教案">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/bookstore.mCfKeQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/bos.xn0BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/bostest.WG8XBA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/bostest2.2nvWfg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/day12.vRKvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/day14.vxKvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/hibernate_day1.4nOXyg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/itedu.q-b9BQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/mydb1.R4Y4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/mydb2.SIY4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/mydb3.SYY4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/spring_day02.7PnPxA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/spring_day04.7vnPxA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/struts_day3.81Bg1g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/test.kkQ2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/test1.302SBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/test2.4E2SBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5438d39-121a-4382-8e77-eb5a4ab0c981/storage_v2/_src_/schema/tieba.z-iTBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/IDecidedzoneDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/IRegionDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/IStaffDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/ISubareaDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/base/BaseDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/base/IBaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/impl/DecidedzoneDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/impl/RegionDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/impl/StaffDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/impl/SubareaDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Decidedzone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Decidedzone.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Region.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Region.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Staff.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Subarea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/Subarea.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/model/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/IDecidedzoneService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/IRegionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/IStaffService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/ISubareaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/base/BaseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/base/IBaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/impl/DecidedzoneServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/impl/RegionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/impl/StaffServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/impl/SubareaServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/utils/MD5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/utils/PinYin4jUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/action/DecidedzoneAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/action/RegionAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/action/StaffAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/action/SubareaAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/action/UserAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/action/base/BaseAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/filter/MyEncodingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/filter/MyRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/com/gyf/bos/web/interceptor/BOSLoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/antlr-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/asm-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/asm-commons-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/asm-tree-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/commons-beanutils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/commons-fileupload-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/commons-lang3-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/freemarker-2.3.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/hessian-4.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/hibernate3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/javassist-3.12.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/log4j-api-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/log4j-core-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/ognl-3.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/pinyin4j-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/poi-3.9-20121203.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/slf4j-api-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-aop-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-aspects-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-beans-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-context-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-core-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-expression-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-jdbc-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-orm-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-test-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-tx-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/spring-web-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/struts2-core-2.3.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/struts2-spring-plugin-2.3.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/lib/xwork-core-2.3.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/admin/function.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/admin/function_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/admin/role.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/admin/role_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/admin/userindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/admin/userinfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/admin/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/base/1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/base/decidedzone.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/base/region.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/base/staff.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/base/subarea.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/common/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/common/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/portal/bug.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/portal/daiban.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/portal/gonggao.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/portal/yujing.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/qupai/diaodu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/qupai/noticebill.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/qupai/noticebill_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/qupai/quickworkorder.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/pages/qupai/workorderimport.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/css/style_grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/accordion.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/combobox.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/datagrid.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/datagrid2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/datagrid3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/json.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/layout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/menubutton.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/tabs.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/ztree.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/demo/ztree2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/bg_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/bg_login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/bgx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/header_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/input_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/online.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/reload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/images/user_logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/easyloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/jquery-1.8.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/jquery.easyui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-cz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-jp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-pt_BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/locale/easyui-lang-zh_TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/outOfBounds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.combobox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.combogrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.combotree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.datagrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.datebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.datetimebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.droppable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.linkbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.menubutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.messager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.numberbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.numberspinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.panel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.progressbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.propertygrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.searchbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.splitbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.timespinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.treegrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.validatebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/plugins/jquery.window.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/easyloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.combobox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.datebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.droppable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.linkbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.progressbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.propertygrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/src/jquery.window.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/black/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/bootstrap/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/default/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/gray/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/cut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/edit_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/edit_remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/filesave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/mini_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/mini_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/mini_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/reload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/sum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/icons/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/easyui/themes/metro/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/jquery-1.8.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/jquery.ocupload-1.1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/jquery.ztree.all-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/js/ztree/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/admin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/association_customer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/association_subarea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/combobox.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/decidedzone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/decidedzone_subarea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/menu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/region.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/staff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/stafftest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/subarea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/json/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/gzbos_war_exploded/validatecode.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/IDecidedzoneDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/IRegionDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/IStaffDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/ISubareaDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/base/BaseDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/base/IBaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/impl/DecidedzoneDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/impl/RegionDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/impl/StaffDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/impl/SubareaDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Decidedzone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Decidedzone.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Region.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Region.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Staff.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Subarea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/Subarea.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/model/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/IDecidedzoneService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/IRegionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/IStaffService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/ISubareaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/base/BaseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/base/IBaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/impl/DecidedzoneServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/impl/RegionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/impl/StaffServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/impl/SubareaServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/utils/MD5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/utils/PinYin4jUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/action/DecidedzoneAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/action/RegionAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/action/StaffAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/action/SubareaAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/action/UserAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/action/base/BaseAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/filter/MyEncodingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/filter/MyRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/com/gyf/bos/web/interceptor/BOSLoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gzbos/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/gzbos/com/test/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/gzbos/com/test/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/gzbos/com/test/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/gzbos/com/test/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/gzbos/com/test/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/gzbos/com/test/ICustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/IDecidedzoneDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/IRegionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/IStaffDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/ISubareaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/base/BaseDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/base/IBaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/impl/DecidedzoneDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/impl/RegionDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/impl/StaffDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/impl/SubareaDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Decidedzone.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Decidedzone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Region.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Staff.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Subarea.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/Subarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/IDecidedzoneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/IRegionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/IStaffService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/ISubareaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/base/BaseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/base/IBaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/impl/DecidedzoneServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/impl/RegionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/impl/StaffServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/impl/SubareaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/utils/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/utils/PinYin4jUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/action/DecidedzoneAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/action/RegionAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/action/StaffAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/action/SubareaAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/action/UserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/action/base/BaseAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/filter/MyEncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gyf/bos/web/interceptor/BOSLoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/test/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/test/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/test/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/test/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/test/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/test/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/antlr-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-commons-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-tree-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang3-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/freemarker-2.3.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hessian-4.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hibernate3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist-3.12.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-api-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-core-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ognl-3.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/pinyin4j-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-3.9-20121203.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-log4j12-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-orm-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-test-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RC2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/struts2-core-2.3.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/struts2-spring-plugin-2.3.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xwork-core-2.3.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/admin/function.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/admin/function_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/admin/role.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/admin/role_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/admin/userindex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/admin/userinfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/admin/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/base/1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/base/decidedzone.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/base/region.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/base/staff.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/base/subarea.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/common/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/common/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/portal/bug.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/portal/daiban.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/portal/gonggao.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/portal/yujing.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/qupai/diaodu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/qupai/noticebill.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/qupai/noticebill_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/qupai/quickworkorder.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/pages/qupai/workorderimport.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/style_grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/accordion.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/combobox.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/datagrid.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/datagrid2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/datagrid3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/json.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/layout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/menubutton.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/tabs.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/ztree.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo/ztree2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/bg_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/bg_login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/bgx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/header_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/input_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/online.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/reload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/user_logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/easyloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/jquery-1.8.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/jquery.easyui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-cz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-jp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-pt_BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/locale/easyui-lang-zh_TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/outOfBounds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.combobox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.combogrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.combotree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.datagrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.datebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.datetimebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.droppable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.linkbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.menubutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.messager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.numberbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.numberspinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.panel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.progressbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.propertygrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.searchbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.splitbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.timespinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.treegrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.validatebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/plugins/jquery.window.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/easyloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.combobox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.datebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.droppable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.linkbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.progressbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.propertygrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/src/jquery.window.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/black/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/bootstrap/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/default/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/gray/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/cut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/edit_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/edit_remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/filesave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/mini_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/mini_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/mini_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/reload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/sum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/icons/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/validatebox_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/easyui/themes/metro/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery-1.8.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.ocupload-1.1.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/jquery.ztree.all-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/ztree/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/admin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/association_customer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/association_subarea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/combobox.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/decidedzone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/decidedzone_subarea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/menu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/region.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/staff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/stafftest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/subarea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/json/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/validatecode.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="203.195.135.48" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="203.195.135.48" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="203.195.135.48" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bos: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="203.195.135.48" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bos: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="bc_decidedzone: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="203.195.135.48" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bos: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="bc_subarea: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="203.195.135.48" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bos: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="t_user: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logoutFun</find>
+      <find>changeTheme</find>
+      <find>修改密码</find>
+      <find>btnCancel</find>
+      <find>addSubareaWindow</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1ZwGMQZSiCpj3QQZ0I8rAz85gOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="c5438d39-121a-4382-8e77-eb5a4ab0c981" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/dao/base/BaseDaoImpl.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+      <recent name="com.gyf.bos.web.action" />
+      <recent name="com.gyf.bos.service.impl" />
+      <recent name="com.gyf.bos.service" />
+      <recent name="com.gyf.bos.dao.impl" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gyf.bos.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\BaiduNetdiskDownload\old22\gzbos\config" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\test\com\test" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\web\WEB-INF\lib" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\web\demo" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\web\json" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.gyf.bos.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\config" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\src" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888" />
+          <option name="urlPath" value="regionAction_listJson.action" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.79">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="PinYin4jUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gyf.bos.utils.PinYin4jUtils" />
+      <module name="gzbos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gyf.bos.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo01" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo02" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo03" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo04" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.79" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.79" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-server -XX:PermSize=128M -XX:MaxPermSize=256m" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="gzbos:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_79_gzbos" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6101" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="gzbos:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PinYin4jUtils" />
+      <item itemvalue="JUnit.Demo01.test1" />
+      <item itemvalue="JUnit.Demo02.test1" />
+      <item itemvalue="JUnit.Demo03.test1" />
+      <item itemvalue="JUnit.Demo04.test1" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.79" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo04.test1" />
+        <item itemvalue="Application.PinYin4jUtils" />
+        <item itemvalue="JUnit.Demo03.test1" />
+        <item itemvalue="JUnit.Demo02.test1" />
+        <item itemvalue="JUnit.Demo01.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="282faf61-695d-4488-bbcb-5db7179ecf81" name="Default" comment="" />
+      <created>1525401101587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525401101587</updated>
+      <workItem from="1525401108257" duration="3232000" />
+      <workItem from="1525415242587" duration="5669000" />
+      <workItem from="1525425874917" duration="15000" />
+      <workItem from="1525482026732" duration="5330000" />
+      <workItem from="1525489617519" duration="7829000" />
+      <workItem from="1525525716822" duration="22000" />
+      <workItem from="1525529686099" duration="30000" />
+      <workItem from="1525674073930" duration="10521000" />
+      <workItem from="1525686258223" duration="1734000" />
+      <workItem from="1525740933758" duration="13241000" />
+      <workItem from="1525770792889" duration="847000" />
+      <workItem from="1525827068464" duration="16423000" />
+      <workItem from="1525875477078" duration="12000" />
+      <workItem from="1525913224339" duration="7703000" />
+      <workItem from="1525933777036" duration="6428000" />
+      <workItem from="1525951597035" duration="75000" />
+      <workItem from="1525999583583" duration="7659000" />
+      <workItem from="1526009879845" duration="18000" />
+      <workItem from="1526010733090" duration="7357000" />
+      <workItem from="1585742696844" duration="2794000" />
+      <workItem from="1585797258429" duration="4035000" />
+      <workItem from="1585812607392" duration="1696000" />
+      <workItem from="1585895502883" duration="22000" />
+      <workItem from="1585900275195" duration="245000" />
+    </task>
+    <task id="LOCAL-00001" summary="教案">
+      <created>1585900418121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585900418121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Demo02_test1 - 2018.05.05 at 16h 26m 34s.xml">
+      <configuration name="Demo02.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo02_test1 - 2018.05.05 at 16h 32m 29s.xml">
+      <configuration name="Demo02.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo02_test1 - 2018.05.05 at 16h 34m 50s.xml">
+      <configuration name="Demo02.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo02_test1 - 2018.05.05 at 16h 36m 37s.xml">
+      <configuration name="Demo02.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo02_test1 - 2018.05.05 at 16h 37m 27s.xml">
+      <configuration name="Demo02.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo02_test1 - 2018.05.05 at 16h 37m 45s.xml">
+      <configuration name="Demo02.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_test1 - 2018.05.08 at 09h 33m 07s.xml">
+      <configuration name="Demo03.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_test1 - 2018.05.08 at 09h 41m 39s.xml">
+      <configuration name="Demo03.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_test1 - 2018.05.08 at 09h 53m 52s.xml">
+      <configuration name="Demo03.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo04_test1 - 2018.05.11 at 16h 40m 23s.xml">
+      <configuration name="Demo04.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="教案" />
+    <option name="LAST_COMMIT_MESSAGE" value="教案" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Assign_Data_Sources" timestamp="1585797589432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1585797589432" />
+    <state x="1032" y="179" key="#Project_Structure" timestamp="1585796709337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585796709337" />
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585797533198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585797533198" />
+    <state x="1069" y="114" key="CommitChangelistDialog2" timestamp="1585900417272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1069" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585900417272" />
+    <state x="1220" y="261" key="FileChooserDialogImpl" timestamp="1585900394611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585900394611" />
+    <state width="619" height="279" key="GridCell.Tab.0.bottom" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.0.center" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.0.left" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.0.right" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.1.bottom" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.1.center" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.1.left" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.1.right" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.2.bottom" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.2.center" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.2.left" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state width="619" height="279" key="GridCell.Tab.2.right" timestamp="1585822290024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="619" height="279" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585822290024" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585797264711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585797264711" />
+    <state x="1120" y="203" key="spring file set editor" timestamp="1585796680000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1120" y="203" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1585796680000" />
+    <state x="1126" y="251" key="struts2 file set editor" timestamp="1585796706196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1126" y="251" key="struts2 file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1585796706196" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/WEB-INF/pages/common/index.jsp</url>
+          <line>103</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
